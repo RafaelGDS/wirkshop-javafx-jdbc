@@ -14,7 +14,7 @@
 	prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.1"
 	xmlns:fx="http://javafx.com/fxml/1">
 	<children>
-		<Label text="Seller Registration">
+		<Label text="Department Registration">
 			<font>
 				<Font name="System Bold" size="14.0" />
 			</font>
